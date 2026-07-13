@@ -132,6 +132,108 @@ Jesus never invited people merely to become Christians.
 
 He called them to become disciples.
 
+* * *
+
+# KNOWLEDGE IS NOT ENOUGH
+
+Imagine that I wanted to teach my daughter how to play basketball.
+
+As a father, I would want to give her every possible advantage.
+
+I might buy the best books ever written on basketball.
+
+Together we could watch NBA games and instructional videos from the world's best coaches.
+
+We could study the rules of the game, learn offensive and defensive strategies, and analyze the techniques of great players.
+
+After months of study, she might know a tremendous amount about basketball.
+
+She could explain the rules.
+
+She could describe how to dribble, pass, shoot, and defend.
+
+She might even score highly on a written examination about the game.
+
+But then comes the real test.
+
+One day we walk onto a basketball court.
+
+I hand her the ball and say,
+
+> "Now dribble."
+
+The ball bounces off her foot.
+
+"Try again."
+
+This time she loses control of the ball.
+
+"Now shoot."
+
+The ball misses the basket completely.
+
+After several attempts she becomes discouraged.
+
+Perhaps she even begins to cry.
+
+"Dad," she says,
+
+> "I've studied so hard. Why am I so bad at basketball?"
+
+The answer is simple.
+
+She has been taught basketball.
+
+She has not been trained in basketball.
+
+Knowing about basketball and playing basketball are not the same thing.
+
+No amount of reading can replace practice.
+
+No amount of watching videos can develop muscle memory.
+
+A player becomes skilled only through training, repetition, correction, discipline, and experience.
+
+The difference between knowledge and practice is the difference between information and transformation.
+
+## Teaching and Training
+
+This principle applies directly to the Christian life.
+
+Many believers spend years attending church services, listening to sermons, reading Christian books, and studying the Bible.
+
+These activities are valuable and necessary.
+
+We cannot follow Christ if we do not know what He taught.
+
+However, discipleship involves more than acquiring information.
+
+A disciple does not merely learn what Jesus taught.
+
+A disciple learns to obey what Jesus taught.
+
+Scripture was given not only for teaching but also for training in righteousness.
+
+Teaching explains what is true.
+
+Training helps us put truth into practice.
+
+A person who studies basketball without ever stepping onto a court will never become a basketball player.
+
+Likewise, a person who studies Christianity without putting Christ's teachings into practice will never mature as a disciple.
+
+This is why James warns believers not to deceive themselves by merely hearing the Word.
+
+The goal is not simply to listen.
+
+The goal is to obey.
+
+Discipleship begins with learning, but it does not end there.
+
+True discipleship involves practicing what we learn until Christ's character is formed in us.
+
+* * *
+
 # 1\. WHAT IS A DISCIPLE?
 
 ## Scripture

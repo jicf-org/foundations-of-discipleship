@@ -4,6 +4,114 @@
 
 # CHRISTIANS VS. DISCIPLES
 
+## Knowledge Is Not Enough
+
+Imagine that I wanted to teach my daughter how to play basketball.
+
+As a father, I would want to give her every possible advantage. I might buy the best books ever written on basketball. Together we could watch NBA games and instructional videos from the world's best coaches. We could study the rules of the game, learn offensive and defensive strategies, and analyze the techniques of great players.
+
+After months of study, she might know a tremendous amount about basketball. She could explain the rules. She could describe how to dribble, pass, shoot, and defend. She might even score highly on a written examination about the game.
+
+But then comes the real test.
+
+One day we walk onto a basketball court. I hand her the ball and say, "Now dribble."
+
+The ball bounces off her foot.
+
+"Try again."
+
+This time she loses control of the ball.
+
+"Now shoot."
+
+The ball misses the basket completely.
+
+After several attempts she becomes discouraged. Perhaps she even begins to cry.
+
+"Dad," she says, "I've studied so hard. Why am I so bad at basketball?"
+
+The answer is simple.
+
+She has been taught basketball.
+
+She has not been trained in basketball.
+
+Knowing about basketball and playing basketball are not the same thing.
+
+No amount of reading can replace practice. No amount of watching videos can develop muscle memory. A player becomes skilled only through training, repetition, correction, discipline, and experience.
+
+The difference between knowledge and practice is the difference between information and transformation.
+
+## Teaching and Training
+
+This principle applies directly to the Christian life.
+
+Many believers spend years attending church services, listening to sermons, reading Christian books, and studying the Bible. These activities are valuable and necessary. We cannot follow Christ if we do not know what He taught.
+
+However, discipleship involves more than acquiring information.
+
+A disciple does not merely learn what Jesus taught.
+
+A disciple learns to obey what Jesus taught.
+
+The Scriptures are given not only for teaching but also for training. God's Word shapes our minds, but it is also meant to shape our lives. Every truth we learn is intended to be lived out in practice.
+
+A person who studies basketball without ever stepping onto a court will never become a basketball player.
+
+Likewise, a person who studies Christianity without putting Christ's teachings into practice will never mature as a disciple.
+
+This is why James warns believers not to deceive themselves by merely hearing the Word. The goal is not simply to listen. The goal is to obey.
+
+Discipleship begins with learning, but it does not end there. True discipleship involves practicing what we learn until Christ's character is formed in us.
+
+## From Information to Transformation
+
+Many churches do an excellent job teaching people the Bible. Yet Jesus never commanded His followers merely to transfer information.
+
+He called them to make disciples.
+
+A disciple is a learner, but more than a learner. A disciple is a follower. A disciple is an apprentice. A disciple orders his life around the teachings and example of his Master.
+
+Jesus did not say:
+
+>"Go and make students who know My teachings."
+
+He said:
+
+>"Go and make disciples."
+
+The difference is profound.
+
+Students accumulate knowledge.
+
+Disciples undergo transformation.
+
+Students master information.
+
+Disciples learn obedience.
+
+Students graduate from a course.
+
+Disciples spend a lifetime following their Master.
+
+The question therefore is not simply:
+
+>"What do I know about Jesus?"
+
+The more important question is:
+
+>"Am I becoming like Jesus?"
+
+## Reflection Questions
+
+In what areas of your Christian life have you gained knowledge but struggled to apply it?
+
+What is one teaching of Jesus that you know but need to obey more consistently?
+
+How can you move from merely learning about Christ to actively following Him this week?
+
+## Christian or Disciple?
+
 ## Key Verse
 
 Luke 9:23

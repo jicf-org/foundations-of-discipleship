@@ -104,11 +104,11 @@ The more important question is:
 
 ## Reflection Questions
 
-In what areas of your Christian life have you gained knowledge but struggled to apply it?
+1. In what areas of your Christian life have you gained knowledge but struggled to apply it?
 
-What is one teaching of Jesus that you know but need to obey more consistently?
+2. What is one teaching of Jesus that you know but need to obey more consistently?
 
-How can you move from merely learning about Christ to actively following Him this week?
+3. How can you move from merely learning about Christ to actively following Him this week?
 
 ## Christian or Disciple?
 

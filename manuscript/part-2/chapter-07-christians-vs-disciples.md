@@ -293,7 +293,7 @@ A disciple increasingly becomes like the One he follows.
 
 * * *
 
-# 2\. THE FIRST USE OF THE WORD "CHRISTIAN"
+# 2. CHRISTIAN OR DISCIPLE?
 
 ## Scripture
 
@@ -301,48 +301,111 @@ Acts 11:26
 
 > "...and in Antioch the disciples were first called Christians."
 
-Many believers are surprised to learn that the word "Christian" appears only a few times in the New Testament.
+Many believers are surprised to learn that the word Christian appears only a few times in the New Testament, while the word disciple appears hundreds of times.
 
-The word "disciple" appears far more frequently.
+Before believers were called Christians, they were known as disciples.
 
-In fact, before believers were called Christians, they were known as disciples.
+This observation is important because it reveals how the early church understood the Christian life.
 
-This observation is significant.
+The New Testament does not present two categories of believers:
 
-The early church did not distinguish between being a Christian and being a disciple.
+- Ordinary Christians
+- Serious Disciples
 
-Every Christian was expected to be a disciple.
+Rather, every Christian was expected to be a disciple.
 
 Every disciple belonged to Christ.
 
-Over time, some people began viewing "Christian" as a broad category and "disciple" as a more serious category.
+Every believer was called to follow Jesus.
 
-The New Testament does not support such a distinction.
+Unfortunately, over time many people began to think of Christianity primarily as an identity.
 
-Jesus did not call some people to salvation and others to discipleship.
+A person might say:
 
-He called all believers to follow Him.
+> "I am a Christian."
 
-The question is not:
+What they often mean is:
 
-"Am I a Christian or a disciple?"
+- I attend church.
+- I believe in God.
+- I agree with Christian teachings.
+- I identify with Christianity.
 
-The question is:
+While these things may be good, Jesus called people to something much deeper.
 
-"Am I truly following Jesus?"
+He called them to follow Him.
+
+A disciple is not merely someone who believes certain truths about Jesus.
+
+A disciple is someone who orders his life around Jesus.
+
+A disciple seeks to learn from Jesus, imitate Jesus, obey Jesus, and become like Jesus.
+
+The question therefore is not:
+
+> "Do I call myself a Christian?"
+
+The more important question is:
+
+> "Am I following Jesus?"
+
+## A Helpful Comparison
+
+| Christian (Cultural Understanding) | Disciple (Biblical Understanding) |
+|-----------------------------------|-----------------------------------|
+| Identifies with Christianity | Follows Jesus |
+| Knows about Christ | Learns from Christ |
+| Attends church occasionally | Lives under Christ's lordship |
+| Seeks information | Pursues transformation |
+| Receives | Also serves |
+| Believes | Believes and obeys |
+
+This table is not intended to create two classes of believers.
+
+Rather, it highlights the difference between merely identifying with Christianity and actively following Christ.
+
+The New Testament expectation is that every Christian becomes a disciple.
+
+## Am I Following Jesus or Merely Admiring Him?
+
+Many people admire Jesus.
+
+They admire:
+
+- His compassion
+- His wisdom
+- His courage
+- His teaching
+
+The crowds admired Jesus.
+
+But not everyone who admired Him followed Him.
+
+Many listened to His teaching.
+
+Far fewer surrendered their lives to Him.
+
+Admiration is not discipleship.
+
+Agreement is not discipleship.
+
+Church attendance is not discipleship.
+
+Discipleship begins when a person responds to Jesus' invitation:
+
+> "Follow Me."
 
 * * *
 
-## Reflection Questions
+### Reflection Questions
 
-1.  Why do you think the word disciple appears more often than Christian?
-    
-2.  What assumptions do people make about the term Christian?
-    
-3.  How does the New Testament define Christian identity?
-    
-4.  What does it mean to follow Jesus today?
-    
+1. When did you first begin identifying yourself as a Christian?
+
+2. What does it practically mean to follow Jesus in your daily life?
+
+3. Are there areas where you admire Jesus but struggle to obey Him?
+
+4. If someone observed your life for a month, what evidence would they see that you are a disciple of Christ?
 
 * * *
 

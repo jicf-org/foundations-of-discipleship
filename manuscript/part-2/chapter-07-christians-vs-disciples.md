@@ -711,7 +711,56 @@ It is measured by transformation.
 
 * * *
 
-# 8\. MAKING DISCIPLES
+# 8. THE FIRST AND LAST WORDS OF JESUS
+
+## Scripture
+
+Matthew 4:19
+Matthew 28:18–20
+
+At the beginning of His ministry, Jesus called His first disciples and said:
+
+> "Follow me, and I will make you fishers of men."
+
+Notice the progression:
+
+FOLLOW ME
+
+I WILL MAKE YOU
+
+FISHERS OF MEN
+
+The call to discipleship was never merely about personal growth.
+
+Jesus intended to transform His followers so that they could participate in His mission.
+
+At the end of His earthly ministry, Jesus gave a final command:
+
+> "Go therefore and make disciples of all nations..."
+
+Again we see the same pattern.
+
+GO
+
+MAKE DISCIPLES
+
+TEACH THEM TO OBEY
+
+The first and last recorded instructions Jesus gave to His disciples point in the same direction.
+
+Jesus calls people to follow Him.
+
+He transforms them.
+
+Then He sends them to help others follow Him.
+
+The goal of discipleship is not merely becoming a mature believer.
+
+The goal is becoming a disciple who makes disciples.
+
+The mission never changed.
+
+# 9\. MAKING DISCIPLES
 
 ## Scripture
 

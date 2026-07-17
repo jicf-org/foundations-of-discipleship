@@ -425,6 +425,77 @@ The goal of the Christian life is not merely activity.
 
 The goal is transformation into the likeness of Jesus Christ.
 
+## Fruitfulness and the Mission of God
+
+When many Christians hear the word "fruitfulness," they immediately think of the Fruit of the Spirit.
+
+This is certainly part of what Jesus meant.
+
+The Holy Spirit transforms believers from the inside out.
+
+As we walk with Christ, our lives increasingly display:
+
+- Love
+- Joy
+- Peace
+- Patience
+- Kindness
+- Goodness
+- Faithfulness
+- Gentleness
+- Self-control
+
+This inward transformation is essential.
+
+However, the New Testament presents a broader picture of fruitfulness.
+
+Jesus taught that those who abide in Him will bear much fruit.
+
+Fruitfulness is not only about what God does in us.
+
+It is also about what God does through us.
+
+As the Holy Spirit transforms our character, He also empowers our witness.
+
+Believers become:
+
+- Salt of the earth
+- Light of the world
+- Ambassadors for Christ
+- Witnesses to the Gospel
+
+The purpose of spiritual transformation is not merely personal improvement.
+
+God changes us so that others may see Christ through us.
+
+A fruitful disciple reflects Christ in character and participates in Christ's mission.
+
+Healthy fruit contains seeds.
+
+A healthy apple tree does not merely produce leaves.
+
+It produces fruit.
+
+And within that fruit are seeds capable of producing more trees.
+
+In the same way, healthy disciples do not merely grow spiritually for their own benefit.
+
+As the Holy Spirit transforms them, God uses them to influence others.
+
+Disciples make disciples.
+
+The work of the Holy Spirit therefore extends beyond personal growth.
+
+He transforms believers and uses them to advance God's kingdom.
+
+The work of the Holy Spirit therefore extends beyond personal growth.
+
+He transforms believers and uses them to advance God's kingdom.
+
+The Holy Spirit produces inward fruit that results in outward influence.
+
+This is part of God's design for every disciple.
+
 * * *
 
 ## Reflection Questions
@@ -484,6 +555,16 @@ As believers walk with the Spirit, spiritual fruit grows naturally.
 Healthy fruit is not manufactured.
 
 It develops through a healthy relationship with the source of life.
+
+Jesus taught that branches bear fruit only when they remain connected to the vine.
+
+In the same way, believers bear spiritual fruit as they remain connected to Christ and walk in dependence upon the Holy Spirit.
+
+The Christian life is not primarily about striving.
+
+It is about abiding.
+
+As we abide in Christ, the Holy Spirit produces the character of Christ within us.
 
 * * *
 

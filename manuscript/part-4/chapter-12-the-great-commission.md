@@ -109,7 +109,78 @@ Every ministry, every church program, every act of service should ultimately con
 
 * * *
 
-# 2\. DISCIPLES MAKE DISCIPLES
+# 2. THE FIRST AND LAST WORDS OF JESUS
+
+## Scripture
+
+Matthew 4:19
+
+Matthew 28:18–20
+
+At the beginning of His public ministry, Jesus called His first disciples and said:
+
+> "Follow me, and I will make you fishers of men."
+
+This simple invitation contains three important elements.
+
+First, Jesus called people into a relationship with Himself.
+
+> "Follow me."
+
+Second, He promised transformation.
+
+> "I will make you..."
+
+Third, He revealed their mission.
+
+> "...fishers of men."
+
+From the very beginning, Jesus intended that His followers would participate in His work of reaching others.
+
+Discipleship was never intended to stop with personal growth.
+
+It was always meant to lead to spiritual multiplication.
+
+At the end of His earthly ministry, Jesus gave His disciples a final command:
+
+> "Go therefore and make disciples of all nations..."
+
+Notice the similarity.
+
+At the beginning:
+
+FOLLOW ME
+
+I WILL MAKE YOU
+
+FISHERS OF MEN
+
+At the end:
+
+GO
+
+MAKE DISCIPLES
+
+TEACH THEM TO OBEY
+
+The first and last recorded instructions Jesus gave to His disciples point in the same direction.
+
+Jesus calls people to follow Him.
+
+He transforms them.
+
+Then He sends them to help others follow Him.
+
+The mission never changed.
+
+A disciple is someone who follows Jesus.
+
+A mature disciple helps others follow Jesus.
+
+This is the heart of the Great Commission.
+
+
+# 3. DISCIPLES MAKE DISCIPLES
 
 ## Scripture
 

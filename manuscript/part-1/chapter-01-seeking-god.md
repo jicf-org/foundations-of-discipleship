@@ -1,3 +1,14 @@
+---
+title: Seeking God
+book: Foundations of Discipleship
+part: The Gospel
+chapter: 1
+version: 0.2.0
+status: Draft
+last_updated: 2026-08-06
+author: Hendra Suhartanto
+---
+
 # PART I — THE GOSPEL
 
 # CHAPTER 1
@@ -6,15 +17,41 @@
 
 ## Key Verse
 
-> "I love those who love me, and those who seek me diligently find me."
-> 
-> — Proverbs 8:17
+> "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
+>
+> — Matthew 6:33
 
-* * *
+---
+
+# Before We Begin
+
+Welcome to the beginning of an exciting journey.
+
+Discipleship is much more than gaining biblical knowledge. It is learning to know Christ, follow Him, become more like Him, and help others do the same.
+
+Throughout this course we will follow a simple rhythm:
+
+> **Learn → Live → Share**
+
+Every lesson is designed to help us:
+
+- Learn what God teaches through His Word.
+- Live it out in our daily lives.
+- Share it with someone else.
+
+We encourage you not to wait until you have completed this course before helping someone else. Begin now. Pray for one person. Meet with that person regularly. Share what God is teaching you as you journey together.
+
+Disciples make disciples.
+
+Our journey begins with one simple but life-changing question:
+
+> **What are you seeking?**
+
+---
 
 # Introduction
 
-Every person is searching for something.
+Every person is seeking something.
 
 Some seek happiness.
 
@@ -26,540 +63,682 @@ Some seek wealth.
 
 Some seek love.
 
-Some seek meaning and purpose.
+Some seek acceptance.
 
-Beneath all these pursuits lies a deeper longing placed within the human heart—a longing for God.
+Some seek purpose.
 
-The Bible teaches that humanity was created by God and for God. We were designed to know Him, love Him, worship Him, and enjoy fellowship with Him.
+Some seek significance.
 
-Yet because of sin, many people spend their lives pursuing created things while neglecting their Creator.
+Whatever we pursue most reveals what our hearts value most.
 
-The result is often frustration, emptiness, and dissatisfaction.
+The question is not whether we are seeking.
 
-As Augustine famously wrote:
+The question is **what** we are seeking.
+
+Beneath every human pursuit lies a deeper longing that God Himself has placed within us.
+
+The Bible teaches that we were created by God and for God. We were designed to know Him, worship Him, walk with Him, and enjoy fellowship with Him forever.
+
+Yet because of sin, humanity exchanged the Creator for created things. Instead of seeking God, we often seek things that promise satisfaction but ultimately leave us empty.
+
+More than sixteen centuries ago, Augustine wrote these famous words:
 
 > "You have made us for Yourself, O Lord, and our hearts are restless until they rest in You."
 
-The good news is that God desires to be found. He is not hiding from those who sincerely seek Him.
+His words remain just as true today.
 
-In fact, Scripture repeatedly teaches that God actively draws people toward Himself and rewards those who earnestly seek Him.
+Many people spend their lives climbing the ladder of success only to discover that it was leaning against the wrong wall.
 
-The journey of discipleship begins when a person responds to God's invitation and begins seeking Him wholeheartedly.
+Others pursue wealth, only to find that money cannot satisfy the deepest needs of the soul.
 
-* * *
+Still others seek relationships, recognition, achievement, or pleasure, hoping that these things will provide lasting fulfillment.
 
-# 1\. GOD INVITES US TO SEEK HIM
+None of these pursuits can ultimately satisfy the human heart because they were never intended to replace God.
+
+The good news of the gospel is not simply that we can seek God.
+
+The good news is that **God has already been seeking us.**
+
+Long before we ever thought about Him...
+
+Long before we ever opened a Bible...
+
+Long before we ever entered a church...
+
+God was already at work.
+
+He was arranging circumstances.
+
+He was bringing people into our lives.
+
+He was patiently drawing us toward Himself.
+
+Every disciple's story begins there.
+
+---
+
+# 1. GOD SEEKS US FIRST
+
+![God Seeks Us First](images/god-seeks-us-first.png){ width=75% }
 
 ## Scripture
 
-> "The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man."
-> 
-> — Acts 17:24
+> "And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us."
 
-Paul spoke these words to the philosophers of Athens. Many of them worshiped numerous gods, yet they did not know the one true God.
+> — Acts 17:26–27
 
-Paul explained that God is not distant or dependent upon human beings. Instead, He is the Creator and Sustainer of all life.
+When the Apostle Paul visited Athens, he found a city filled with temples, idols, and religious devotion.
 
-Later Paul says:
+The people were searching.
 
-> "That they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us."
-> 
-> — Acts 17:27
+They worshipped many gods.
 
-This is one of the most encouraging truths in Scripture.
+They built altars.
 
-God is not far away.
+They offered sacrifices.
 
-He is not indifferent.
+Yet they still did not know the one true God.
 
-He is not hiding.
+Standing before the philosophers at the Areopagus, Paul proclaimed something remarkable.
 
-God works through circumstances, relationships, blessings, and even hardships to draw people toward Himself.
+The God of the Bible is not distant.
 
-Many believers can trace their spiritual journey back to a specific event:
+He is not confined to temples.
 
-- A personal crisis
-    
-- A family tragedy
-    
-- A deep disappointment
-    
-- A life-changing conversation
-    
-- An unexpected blessing
-    
+He does not depend upon human beings.
 
-What appeared to be coincidence was often God's providence.
+He is the Creator of heaven and earth.
 
-God invites people to seek Him.
+Then Paul makes an astonishing statement.
 
-* * *
+God determined **when** we would live.
+
+God determined **where** we would live.
+
+Why?
+
+"So that they should seek God."
+
+This means our lives are not accidents.
+
+The family into which we were born...
+
+The nation where we live...
+
+The generation in which we were raised...
+
+The opportunities we have received...
+
+The people we have met...
+
+Even many of our disappointments and hardships...
+
+None of these are outside God's sovereign care.
+
+Looking back over our lives, many of us can now recognize moments that once appeared to be coincidence but were actually God's providence.
+
+Perhaps someone invited you to church.
+
+Perhaps a friend shared the gospel.
+
+Perhaps a crisis caused you to ask questions you had never considered before.
+
+Perhaps God used a disappointment to expose the emptiness of pursuing other things.
+
+What seemed random at the time was often God's loving hand drawing you toward Himself.
+
+God is always at work long before we recognize His presence.
+
+This truth is seen from the very beginning of Scripture.
+
+The same truth is seen in the very first pages of the Bible.
+
+After Adam and Eve sinned, they hid themselves among the trees of the garden.
+
+Fear replaced fellowship.
+
+Shame replaced innocence.
+
+Instead of running toward God, they ran away from Him.
+
+Who took the initiative?
+
+Not Adam.
+
+Not Eve.
+
+God.
+
+> "But the LORD God called to the man and said to him, 'Where are you?'"
+>
+> — Genesis 3:9
+
+God's question was not asked because He had lost Adam.
+
+God knew exactly where Adam was.
+
+The question exposed Adam's spiritual condition rather than his physical location.
+
+Throughout history, God has continued asking that same question.
+
+"Where are you?"
+
+Not merely,
+
+"Where are you living?"
+
+or
+
+"Where are you working?"
+
+but
+
+"Where are you in your relationship with Me?"
+
+From Genesis to Revelation, we discover a God who lovingly pursues people who have wandered away from Him.
+
+This theme reaches its fullest expression in Jesus Christ.
+
+![Jesus Came to Seek and Save](images/jesus-came-to-seek-and-save.png){ width=75% }
+
+Jesus described His mission with these words:
+
+> "For the Son of Man came to seek and to save the lost."
+>
+> — Luke 19:10
+
+Notice what Jesus did **not** say.
+
+He did not say,
+
+"The Son of Man came to welcome those who eventually found Him."
+
+Nor did He say,
+
+"The Son of Man came to reward those who searched hard enough."
+
+Instead, He said,
+
+"The Son of Man came to seek and to save the lost."
+
+This is the heart of the gospel.
+
+God does not wait passively for sinners to find Him.
+
+He lovingly takes the initiative.
+
+He pursues.
+
+He calls.
+
+He invites.
+
+He rescues.
+
+When we finally respond to Him, we discover that He has been working in our lives all along.
+
+Recognizing this changes how we understand discipleship.
+
+Discipleship does not begin with our decision to seek God.
+
+It begins with God's gracious initiative toward us.
+
+Our seeking is always a response to His seeking.
+
+---
 
 ## Reflection Questions
 
-1.  When have you sensed God working through circumstances in your life?
-    
-2.  What events have caused you to think more seriously about God?
-    
-3.  How does knowing that God is "not far from each one of us" encourage you?
-    
+1. Looking back over your life, where can you now recognize God's hand at work?
 
-* * *
+2. What people or circumstances has God used to draw you toward Himself?
 
-# 2\. GOD REWARDS THOSE WHO SEEK HIM
+3. How does knowing that God sought you first change your understanding of your own spiritual journey?
+
+---
+
+# 2. GOD REWARDS THOSE WHO SEEK HIM
 
 ## Scripture
 
 > "You will seek me and find me, when you seek me with all your heart."
-> 
+>
 > — Jeremiah 29:13
 
-The promise is remarkable.
+If God seeks us first, does that mean we have no responsibility?
 
-God promises to be found.
+Not at all.
 
-But notice the condition:
+The Bible presents two complementary truths.
 
-> "when you seek me with all your heart."
+God takes the initiative.
 
-God is not interested in casual curiosity.
+We are called to respond.
 
-He desires sincere pursuit.
+Throughout Scripture, God invites people to seek Him.
 
-Many people treat God as one option among many.
+This invitation is not extended reluctantly.
 
-They seek God only when convenient.
+It flows from His love.
 
-They pray only during emergencies.
+He desires to be known.
 
-They think about spiritual matters only when life becomes difficult.
+He desires to be found.
 
-God calls us to something deeper.
+Jeremiah records one of the Bible's most beautiful promises:
 
-He calls us to seek Him wholeheartedly.
+> "You will seek me and find me, when you seek me with all your heart."
 
-Hebrews reinforces this truth:
+Notice the condition.
 
-> "And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him."
-> 
+God is not speaking about casual curiosity.
+
+He is speaking about wholehearted pursuit.
+
+Many people treat God as one interest among many.
+
+They seek Him only when life becomes difficult.
+
+They pray only in times of crisis.
+
+They attend church occasionally but never truly pursue a relationship with Him.
+
+God desires something deeper.
+
+He desires our hearts.
+
+Seeking God means more than acquiring biblical knowledge.
+
+It means pursuing a relationship with the One who created us.
+
+Like every healthy relationship, it requires time.
+
+It requires listening.
+
+It requires trust.
+
+It requires surrender.
+
+The writer of Hebrews reinforces this same truth.
+
+> "And without faith it is impossible to please Him, for whoever would draw near to God must believe that He exists and that He rewards those who seek Him."
+>
 > — Hebrews 11:6
 
-Notice two foundational beliefs:
+This verse reminds us of two foundational realities.
 
-1.  God exists.
-    
-2.  God rewards those who seek Him.
-    
+First, we believe that God exists.
 
-The second belief is often overlooked.
+Second, we believe that He rewards those who sincerely seek Him.
 
-Many people believe God exists but doubt that He cares.
+Many people believe the first statement.
 
-Scripture teaches otherwise.
+Far fewer truly believe the second.
+
+Some imagine God to be distant.
+
+Others think He is reluctant to receive them.
+
+Still others fear they have wandered too far away.
+
+The gospel tells a different story.
 
 God delights in revealing Himself to those who genuinely seek Him.
 
-* * *
+He is not hiding from us.
+
+He is inviting us.
+
+The question is not whether God is willing to be found.
+
+The question is whether we are willing to seek Him with all our hearts.
 
 ## Reflection Questions
 
-1.  What does it mean to seek God with all your heart?
-    
-2.  What distractions often compete for your attention?
-    
-3.  How can you make seeking God a daily priority?
-    
+1. What does it mean to seek God with all your heart?
 
-* * *
+2. What distractions most often compete for your attention?
 
-# 3\. WHAT ARE YOU SEEKING FIRST?
+3. What practical steps can you take to make seeking God a daily priority?
+
+---
+
+# 3. SEEK FIRST HIS KINGDOM
+
+![Seek First His Kingdom](images/seek-first.png){ width=75% }
 
 ## Scripture
 
 > "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
-> 
+>
 > — Matthew 6:33
 
-Jesus spoke these words during the Sermon on the Mount.
+Perhaps no verse summarizes the Christian life better than this one.
 
-He had been addressing common human concerns:
+Jesus spoke these words during the Sermon on the Mount after addressing many of the concerns that occupy our daily lives.
 
-- Food
-    
-- Clothing
-    
-- Finances
-    
-- Security
-    
-- The future
-    
+Food.
 
-These concerns are real and important.
+Clothing.
 
-Yet Jesus teaches that many worries stem from misplaced priorities.
+Finances.
 
-The issue is not whether we seek something.
+Security.
+
+The future.
+
+These are all legitimate concerns.
+
+Jesus did not dismiss them.
+
+Neither did He suggest that His followers should become careless or irresponsible.
+
+Instead, He challenged their priorities.
+
+Notice that Jesus did not say,
+
+"Do not seek."
+
+Seeking is part of human nature.
 
 Everyone seeks something.
 
-The question is: What comes first?
+The real question is:
 
-Many people organize their lives around:
+**What comes first?**
 
-- Career advancement
-    
-- Financial success
-    
-- Social acceptance
-    
-- Personal comfort
-    
+Many people organize their lives around career, success, comfort, financial security, reputation, or personal achievement.
 
-None of these things are inherently wrong.
+None of these things are necessarily wrong.
 
-The problem arises when they become more important than God.
+Work is good.
 
-Jesus teaches that God's kingdom must occupy first place.
+Money is useful.
 
-When God becomes our highest priority, everything else finds its proper place.
+Family is important.
 
-Seeking God first does not eliminate problems.
+Planning for the future is wise.
 
-It changes our perspective on them.
+The problem begins when good things become ultimate things.
 
-Instead of allowing circumstances to control us, we learn to trust God's wisdom and provision.
+Whenever anything takes God's rightful place, it becomes an idol.
 
-* * *
+Jesus calls His disciples to a different way of living.
+
+Seek first God's Kingdom.
+
+To seek God's Kingdom means that His rule, His will, and His purposes become the highest priority in every area of life.
+
+It means asking questions like:
+
+- What pleases God?
+- How can I glorify Him in my work?
+- How can I serve others?
+- How can I reflect Christ in my relationships?
+- How can I use my resources for His Kingdom?
+
+Seeking God's Kingdom first does not mean life suddenly becomes easy.
+
+Christians still face illness.
+
+They still experience disappointment.
+
+They still encounter financial pressures and uncertainty.
+
+The difference is that our confidence no longer rests in our circumstances.
+
+Our confidence rests in God.
+
+When He becomes our highest priority, everything else begins to find its proper place.
+
+Instead of allowing our circumstances to define our peace, we allow God's promises to shape our perspective.
+
+This is why Jesus concludes with the promise:
+
+> "...and all these things will be added to you."
+
+Jesus is not promising wealth or a life without problems.
+
+He is assuring us that our heavenly Father knows what we need and is faithful to care for His children.
+
+Seeking God first is therefore not simply a command.
+
+It is an invitation to trust the One who already knows, loves, and provides for us.
+
+---
 
 ## Reflection Questions
 
-1.  What currently occupies most of your attention and energy?
-    
-2.  How does worry reveal misplaced priorities?
-    
-3.  What practical steps can help you seek God's kingdom first?
-    
+1. What currently receives the greatest share of your time, energy, and attention?
 
-* * *
+2. What practical changes would help you seek God's Kingdom first each day?
 
-# 4\. GOD OR MONEY?
+3. How does trusting God change the way you think about your future?
+
+---
+
+# 4. ONE HEART, ONE THRONE
+
+![One Heart, One Throne](images/one-throne.png){ width=75% }
 
 ## Scripture
 
 > "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money."
-> 
+>
 > — Matthew 6:24
 
-One of the greatest competitors for the human heart is money.
+Immediately before telling His followers to seek first God's Kingdom, Jesus addressed one of the greatest competitors for the human heart.
 
-Money itself is not evil. In fact, money is a useful tool. It can provide for families, support ministry, help the poor, and accomplish many good purposes.
+Money.
 
-However, money becomes dangerous when it moves from being a tool to becoming a master.
+Money itself is not evil.
 
-Jesus did not say that money and God cannot coexist. He said that we cannot serve both.
+Scripture never teaches that possessing wealth is sinful.
 
-A servant has only one master.
+In fact, money can be used to provide for our families, support ministry, help those in need, and advance God's Kingdom.
 
-Many people trust in money because it appears to offer:
+The problem is not money.
 
-- Security
-- Comfort
-- Status
-- Independence
-- Control
+The problem is mastery.
 
-Yet money cannot provide what the human soul truly needs.
+Jesus says,
 
-Money cannot forgive sins.
+"No one can serve two masters."
 
-Money cannot heal a guilty conscience.
+A servant cannot divide his ultimate loyalty.
 
-Money cannot provide eternal life.
+Sooner or later, one master will take first place.
 
-Money cannot bring us into a relationship with God.
+Money promises many things.
 
-The danger is subtle. Few people consciously decide to worship money. Instead, they gradually begin to depend upon wealth more than God.
+It promises security.
 
-Their sense of security becomes tied to bank balances, investments, possessions, and financial success.
+It promises comfort.
 
-When these things increase, they feel secure.
+It promises independence.
 
-When these things decrease, they feel fearful.
+It promises control.
 
-Jesus teaches that disciples must place their ultimate trust in God rather than material possessions.
+For this reason, people are often tempted to trust wealth more than they trust God.
 
-The issue is not how much money we possess.
+Jesus exposes the deeper issue.
 
-The issue is what possesses our hearts.
+The battle is not between God and money.
 
-* * *
+The battle is for the human heart.
 
-## Reflection Questions
+Every heart has a throne.
 
-1.  Why do people place so much trust in money?
-    
-2.  In what ways can money become a master?
-    
-3.  How can we use money as a tool without allowing it to become an idol?
-    
-4.  What practical steps can help us trust God more than wealth?
-    
+Only one King can sit upon it.
 
-* * *
+If God sits upon the throne, money becomes a servant.
 
-# 5\. THE DANGER OF A DIVIDED HEART
+If money sits upon the throne, it becomes a master.
 
-## Scripture
+The question is not simply,
 
-> "The seed that fell among thorns stands for those who hear, but as they go on their way they are choked by life's worries, riches and pleasures, and they do not mature."
-> 
-> — Luke 8:14
+"How much money do I have?"
 
-One of the greatest dangers facing Christians today is not persecution but distraction.
+The better question is,
 
-Jesus often warned people about divided loyalties.
+"Who rules my heart?"
 
-Many people want God's blessings but not God's authority.
+Seeking God first means placing Him on the throne of our lives.
 
-They want salvation but not surrender.
+Every decision...
 
-They want eternal life but not discipleship.
+Every ambition...
 
-Jesus describes people who hear God's Word yet fail to mature spiritually because their hearts become crowded.
+Every relationship...
 
-Three particular distractions are mentioned:
+Every possession...
 
-### Worries
+is brought under His lordship.
 
-Anxiety about life can consume our attention and weaken our trust in God.
+This is what it means to follow Christ.
 
-### Riches
+He is not merely an important part of our lives.
 
-The pursuit of wealth can become more important than the pursuit of God.
+He is Lord over every part of our lives.
 
-### Pleasures
-
-Comfort, entertainment, and self-indulgence can slowly crowd out spiritual growth.
-
-None of these things are necessarily sinful by themselves.
-
-The danger lies in allowing them to occupy the place that belongs to God alone.
-
-A divided heart struggles to grow.
-
-A devoted heart bears fruit.
-
-God desires wholehearted devotion.
-
-* * *
+---
 
 ## Reflection Questions
 
-1.  What worries most frequently occupy your mind?
-    
-2.  Are there pleasures or pursuits that compete with your relationship with God?
-    
-3.  What does wholehearted devotion to God look like in daily life?
-    
-4.  How can you cultivate a more focused spiritual life?
-    
+1. What competes most strongly for first place in your heart?
 
-* * *
+2. In what ways can money become a master rather than a servant?
 
-# 6\. THE PARABLE OF THE SOWER
+3. What would seeking God first look like in your work, family, finances, and daily decisions?
 
-## Scripture
+---
 
-> "The seed is the word of God."
-> 
-> — Luke 8:11
+# Chapter Summary
 
-Jesus taught one of His most important parables to explain how people respond to God's Word.
+Every person is seeking something.
 
-The seed represents God's Word.
+Some seek success.
 
-The soils represent different conditions of the human heart.
+Some seek security.
 
-### The Path
+Some seek wealth.
 
-The seed falls on hard ground and is quickly taken away.
+Some seek recognition.
 
-These are people who hear God's Word but never truly receive it.
+Some seek happiness.
 
-### Rocky Soil
+Yet beneath every human pursuit lies a deeper longing that only God can satisfy.
 
-The seed springs up quickly but has no deep roots.
+The Bible reveals an amazing truth:
 
-These people initially respond with enthusiasm but fall away when difficulties arise.
+Before we ever sought God,
 
-### Thorny Soil
+**God was already seeking us.**
 
-The seed grows but becomes choked by worries, riches, and pleasures.
+He has been working throughout history, arranging people, places, relationships, and circumstances so that we might come to know Him.
 
-These people never mature spiritually because other priorities crowd out God's Word.
+Our response is to seek Him with all our hearts.
 
-### Good Soil
+Jesus calls us to place God's Kingdom above every other pursuit.
 
-The seed takes root, grows, and produces a harvest.
+This does not mean ignoring the responsibilities of daily life.
 
-These people hear God's Word, receive it, obey it, and persevere.
+Rather, it means allowing every part of our lives to come under God's rule.
 
-The lesson is simple but profound.
+Every heart has a throne.
 
-The power of the seed is not the problem.
+Only one King can sit upon it.
 
-The condition of the soil determines the outcome.
+When Christ is on the throne, everything else begins to find its proper place.
 
-Every disciple must regularly examine the condition of his or her heart.
+Seeking God is not merely the first lesson of discipleship.
 
-* * *
+It is the foundation upon which every other lesson is built.
 
-## Reflection Questions
+---
 
-1.  Which soil best describes your life right now?
-    
-2.  What obstacles hinder spiritual growth?
-    
-3.  What "thorns" threaten to choke God's Word in your life?
-    
-4.  What practices help cultivate "good soil"?
-    
-
-* * *
-
-# 7\. WARNING AGAINST RICH OPPRESSORS
-
-## Scripture
-
-> "Come now, you rich, weep and howl for the miseries that are coming upon you."
-> 
-> — James 5:1
-
-James speaks strongly against those who gain wealth through selfishness, injustice, and exploitation.
-
-His warning is not directed toward everyone who possesses wealth.
-
-Rather, it is directed toward those who trust in wealth while neglecting God and mistreating others.
-
-Throughout Scripture, God demonstrates particular concern for:
-
-- The poor
-- The widow
-- The orphan
-- The foreigner
-- The oppressed
-
-Wealth is a stewardship, not an ownership.
-
-Everything we possess ultimately belongs to God.
-
-The question is not merely:
-
-"How much do I have?"
-
-The better question is:
-
-"How am I using what God has entrusted to me?"
-
-Disciples recognize that their resources belong to God and should be used for His glory.
-
-This includes:
-
-- Supporting ministry
-- Helping those in need
-- Caring for family
-- Practicing generosity
-- Advancing God's kingdom
-
-A disciple does not worship wealth.
-
-A disciple uses wealth to worship God.
-
-* * *
-
-## Reflection Questions
-
-1.  What responsibilities accompany financial blessings?
-    
-2.  How does James challenge modern attitudes toward wealth?
-    
-3.  In what ways can generosity reflect God's character?
-    
-4.  How can you use your resources more effectively for God's kingdom?
-    
-
-* * *
-
-# CHAPTER SUMMARY
-
-God created us for a relationship with Himself.
-
-He actively invites people to seek Him and promises that those who seek Him wholeheartedly will find Him.
-
-Yet many distractions compete for our attention:
-
-- Worry
-- Wealth
-- Pleasure
-- Self-reliance
-
-Jesus calls us to seek first God's kingdom and to cultivate hearts that receive His Word.
-
-The disciple's journey begins when God becomes our highest priority.
-
-As we seek Him above all else, we discover the purpose, peace, and relationship for which we were created.
-
-* * *
-
-# MEMORY VERSE
+# Memory Verse
 
 > "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
-> 
+>
 > — Matthew 6:33
 
-* * *
+---
 
-# PERSONAL APPLICATION
+# Disciple-Making Challenge
 
-During the coming week:
+![Go and Make Disciples](images/go-and-make-disciples.png){ width=75% }
 
-□ Spend at least 15 minutes each day in prayer.
+Discipleship is never intended to stop with us.
 
-□ Read Matthew chapters 5–7.
+As God teaches us, we are called to help others follow Christ as well.
 
-□ Memorize Matthew 6:33.
+During the coming fortnight, prayerfully commit yourself to these simple steps.
 
-□ Identify one distraction that competes with your relationship with God.
+1. Read **Matthew 6** several times.
 
-□ Write down three specific ways you can seek God more intentionally.
+2.  Spend at least **15 minutes each day** seeking God in prayer and through His Word.
 
-□ Share with another believer what God has been teaching you.
+3.  Memorize **Matthew 6:33**.
 
-* * *
+4.  Ask God to place **one person** on your heart.
 
-# PERSONAL COMMITMENT
+5.  Pray for that person every day.
 
-I desire to seek God above all else and to make Him the highest priority in my life.
+6.  Meet with that person before our next lesson.
 
-Signature: _**_**_**_**_**_**_**_**\___
+7.  Share one thing God has been teaching you from this chapter.
 
-Date: _**_**_**_**_**_**_**_**_**_**_
+You do not need to be an expert before you begin investing in someone else.
 
-* * *
+Simply share what you are learning as you continue following Christ together.
 
-# PRAYER
+That is how disciples make disciples.
+
+---
+
+# Personal Commitment
+
+Having completed this chapter, I desire to make seeking God the highest priority in my life.
+
+With God's help, I also commit myself to intentionally investing in one other person throughout this discipleship journey.
+
+Name of the person I will pray for and encourage:
+
+___________________________________________
+
+Signature:
+
+___________________________________________
+
+Date:
+
+___________________________________________
+
+---
+
+# Prayer
 
 Heavenly Father,
 
-Thank You for creating me and inviting me into a relationship with You. Forgive me for the times I have pursued other things more passionately than I have pursued You.
+Thank You for loving me long before I ever thought about seeking You.
 
-Help me to seek You with all my heart. Teach me to trust You more than money, success, comfort, or any other earthly pursuit.
+Thank You for patiently working through people, circumstances, and experiences to draw me to Yourself.
 
-Give me a heart that is good soil for Your Word. Remove distractions that hinder my growth and help me to bear fruit that brings glory to You.
+Forgive me for the times I have allowed other things to take first place in my life.
 
-May Your kingdom become my highest priority and Your will become my greatest desire.
+Teach me to seek Your Kingdom above everything else.
+
+Help me to trust You more than my own plans, my possessions, or my fears.
+
+Rule over every part of my life and shape my heart to become more like Jesus.
+
+I also pray for the one person You are placing on my heart.
+
+Give me the courage to pray for them, to love them, and to share with them what You are teaching me.
+
+May my life become a faithful reflection of Your grace so that others may come to know You as well.
 
 In Jesus' name,
 
-Amen.
+**Amen.**

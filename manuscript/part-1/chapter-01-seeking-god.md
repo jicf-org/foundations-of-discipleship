@@ -11,7 +11,7 @@ author: Hendra Suhartanto
 
 # PART I — THE GOSPEL
 
-# CHAPTER 1
+## CHAPTER 1
 
 # SEEKING GOD
 
@@ -31,7 +31,7 @@ Discipleship is much more than gaining biblical knowledge. It is learning to kno
 
 Throughout this course we will follow a simple rhythm:
 
-> **Learn → Live → Share**
+> **Learn. Live. Share.**
 
 Every lesson is designed to help us:
 
@@ -119,7 +119,7 @@ Every disciple's story begins there.
 
 # 1. GOD SEEKS US FIRST
 
-![God Seeks Us First](images/god-seeks-us-first.png){ width=75% }
+![](images/god-seeks-us-first.png){ width=90% }
 
 ## Scripture
 
@@ -239,7 +239,7 @@ From Genesis to Revelation, we discover a God who lovingly pursues people who ha
 
 This theme reaches its fullest expression in Jesus Christ.
 
-![Jesus Came to Seek and Save](images/jesus-came-to-seek-and-save.png){ width=75% }
+![](images/jesus-came-to-seek-and-save.png){ width=90% }
 
 Jesus described His mission with these words:
 
@@ -405,7 +405,7 @@ The question is whether we are willing to seek Him with all our hearts.
 
 # 3. SEEK FIRST HIS KINGDOM
 
-![Seek First His Kingdom](images/seek-first.png){ width=75% }
+![](images/seek-first.png){ width=90% }
 
 ## Scripture
 
@@ -519,7 +519,7 @@ It is an invitation to trust the One who already knows, loves, and provides for 
 
 # 4. ONE HEART, ONE THRONE
 
-![One Heart, One Throne](images/one-throne.png){ width=75% }
+![](images/one-throne.png){ width=90% }
 
 ## Scripture
 
@@ -667,7 +667,7 @@ It is the foundation upon which every other lesson is built.
 
 # Disciple-Making Challenge
 
-![Go and Make Disciples](images/go-and-make-disciples.png){ width=75% }
+![](images/go-and-make-disciples.png){ width=90% }
 
 Discipleship is never intended to stop with us.
 

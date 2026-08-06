@@ -1,0 +1,41 @@
+---
+documentclass: book
+
+fontsize: 11pt
+
+linestretch: 1.15
+
+geometry:
+- paperwidth=6in
+- paperheight=9in
+- inner=0.85in
+- outer=0.75in
+- top=0.75in
+- bottom=0.75in
+
+mainfont: Noto Serif
+
+sansfont: Noto Sans
+
+monofont: Noto Sans Mono
+
+colorlinks: true
+
+toc: false
+
+secnumdepth: 0
+
+header-includes:
+  - \usepackage{graphicx}
+  - \usepackage{titlesec}
+  - \usepackage{fancyhdr}
+  - \usepackage{setspace}
+  - \usepackage{parskip}
+  - \usepackage{float}
+  - \usepackage{booktabs}
+  - \usepackage{fontspec}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyfoot[C]{\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+---

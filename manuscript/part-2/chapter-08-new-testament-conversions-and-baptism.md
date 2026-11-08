@@ -1,678 +1,988 @@
-# CHAPTER 9
+# CHAPTER 8
 
-# THE CHURCH
+# NEW TESTAMENT CONVERSION: THE MEANING AND PRACTICE OF BAPTISM
 
 ## Key Verse
 
-Matthew 16:18
+Matthew 28:19–20a
 
-> "I will build my church, and the gates of hell shall not prevail against it."
+> "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you."
 
 * * *
 
 # Introduction
 
-Many people have strong opinions about the church.
+The New Testament presents baptism as a visible, public act.
 
-Some love the church.
+It is closely joined to coming to Jesus and belonging to His people.
 
-Some are disappointed by the church.
+Baptism is not a decorative ceremony added to Christian faith.
 
-Some have been hurt by the church.
+Jesus commanded His disciples to baptize.
 
-Others see the church as unnecessary.
+The apostles preached and practiced baptism.
 
-Yet despite its imperfections, the Church occupies a central place in God's plan.
+The letters explain its rich connection with Christ's death and resurrection, forgiveness, the Holy Spirit, and a new life.
 
-Jesus did not merely save individuals.
+Earlier lessons have considered repentance, faith, turning from sin, and obedience.
 
-He created a people.
+Those remain essential context.
 
-A family.
+In this chapter we concentrate on baptism itself.
 
-A body.
+We will ask:
 
-A community.
+- What does baptism mean?
+- Whom does the New Testament show being baptized?
+- How does baptism relate to salvation?
+- Who may baptize?
+- How does baptism fit into lifelong discipleship?
 
-The New Testament consistently presents the Christian life as something lived together rather than alone.
+The central question of this chapter is:
 
-To understand discipleship, we must understand the Church.
+> What does the New Testament teach about baptism, and how should the church practice it as part of making disciples of Jesus Christ?
 
-For the Church is not merely a building we attend.
+Christians have not agreed on every theological implication or practice.
 
-It is the people of God among whom we belong.
+We will therefore distinguish what a passage says directly from what readers infer from it.
 
-# 1\. WHAT IS THE CHURCH?
+We will also distinguish a biblical command from a pattern or pastoral recommendation.
 
-## Scripture
+Participants should examine the passages themselves.
 
-Matthew 16:18
+They should form convictions under Scripture, rather than relying only on inherited custom.
 
-> "I will build my church, and the gates of hell shall not prevail against it."
-
-The word "church" often brings different images to mind.
-
-Some think of a building.
-
-Others think of a denomination.
-
-Some think of worship services.
-
-Others think of traditions and programs.
-
-However, the New Testament uses the word "church" in a very specific way.
-
-The Greek word translated as "church" is *ekklesia*, meaning "called out assembly" or "gathering."
-
-The Church is not primarily a building.
-
-It is a people.
-
-The Church consists of all those who have been called by God through faith in Jesus Christ.
-
-Buildings may burn.
-
-Organizations may change.
-
-Programs may come and go.
-
-But the Church continues because it belongs to Christ.
-
-Notice that Jesus said:
-
-> "I will build my church."
-
-The Church is Christ's Church.
-
-He founded it.
-
-He sustains it.
-
-He protects it.
-
-And He promises that the powers of darkness will never ultimately overcome it.
-
-Understanding this truth changes how we view the Church.
-
-The Church is not merely an institution we attend.
-
-It is a spiritual family to which we belong.
-
-* * *
-
-## Reflection Questions
-
-1.  How have you traditionally thought about the Church?
-    
-2.  Why is it important to understand that the Church is people rather than a building?
-    
-3.  What does Jesus' promise about His Church teach us?
-    
-4.  How does belonging to Christ's Church affect your identity?
-    
-
-* * *
-
-# 2\. THE UNIVERSAL AND LOCAL CHURCH
+# 1\. THE GREAT COMMISSION: A MISSION PASSED ON THROUGH OBEDIENCE
 
 ## Scripture
 
-Ephesians 4:4–6
+Matthew 28:16–20
 
 (Read the passage.)
 
-The New Testament speaks about the Church in two related ways.
+Jesus addresses the eleven disciples gathered in Galilee.
 
-### The Universal Church
+The immediate audience is the apostles.
 
-The universal Church includes all true believers in Jesus Christ throughout history and throughout the world.
+Yet the command cannot be confined to them.
 
-It includes:
+Jesus directs them to make disciples among all nations, baptizing them and teaching them to observe everything He commanded.
 
-- Believers from every nation
-- Every language
-- Every culture
-- Every generation
+He promises to be with them "to the end of the age" (Matthew 28:20, ESV).
 
-There is ultimately one Church because there is one Lord, one faith, and one Savior.
+The Commission contains its own means of transmission.
 
-Every genuine believer belongs to this universal body of Christ.
+The apostles were to teach new disciples to obey everything Jesus had commanded.
 
-### The Local Church
+That teaching includes the command to make disciples, baptize, and teach obedience.
 
-The New Testament also speaks of local churches.
+As the Gospel and Jesus' teaching were faithfully handed on, each generation of disciples was drawn into this shared mission.
 
-Examples include:
+The command was first given to the apostles.
 
-- The church in Jerusalem
-- The church in Antioch
-- The church in Corinth
-- The church in Ephesus
-- The church in Philippi
+But its reach extends through their disciple-making work to the Church across the nations and generations.
 
-These local congregations met regularly for worship, fellowship, prayer, teaching, and service.
+This does not mean every Christian must perform every baptism personally.
 
-The universal Church is expressed through local churches.
+It does mean that disciple-making, including baptism and teaching, belongs to the mission of the whole Church.
 
-A believer belongs spiritually to the universal Church and practically participates in a local church.
+It is not the private responsibility of a clerical class.
 
-Both realities are important.
+The New Testament describes believers as a holy priesthood (1 Peter 2:5, 9).
 
-The universal Church reminds us of our unity.
+It says the body of Christ is equipped for ministry (Ephesians 4:11–16).
 
-The local church provides a place for growth and service.
+Pastors and teachers equip the Church.
+
+They do not replace the Church's calling to bear witness and make disciples.
 
 * * *
 
 ## Reflection Questions
 
-1.  What is the difference between the universal Church and a local church?
+1.  In Matthew 28:16–20, what did Jesus command the eleven to do? What three activities are joined in verses 19–20?
     
-2.  Why are both important?
+2.  What does the instruction to teach obedience imply about passing the Commission to new disciples?
     
-3.  How does belonging to the global Church affect your perspective?
+3.  Why does it matter that disciple-making belongs to the whole Church rather than to a clerical class?
     
-4.  How can you contribute to your local church?
+4.  How can a church equip ordinary believers to share the Gospel, prepare candidates for baptism, and walk with them afterward?
     
 
 * * *
 
-# 3\. THE BODY OF CHRIST
+# 2\. WHAT BAPTISM MEANS
 
 ## Scripture
 
-1 Corinthians 12:12–27
+- Matthew 28:19
+- Romans 6:3–4
+- Colossians 2:12
+- Acts 22:16
+- 1 Peter 3:21
+
+(Read the passages.)
+
+Baptism is an embodied confession of allegiance to Jesus Christ.
+
+It is also an identification with His people.
+
+It is performed with water, in the name of the Father, the Son, and the Holy Spirit (Matthew 28:19).
+
+It publicly marks the baptized person as a disciple.
+
+It gives visible expression to the Gospel that the Church proclaims.
+
+### Union with Christ
+
+Paul's central image is union with Christ in His death and resurrection.
+
+In baptism, believers are pictured as buried with Christ.
+
+They are raised to walk in newness of life (Romans 6:3–4; Colossians 2:12).
+
+### Cleansing
+
+Baptism also points to cleansing.
+
+It points to an appeal to God for a good conscience (Acts 22:16; 1 Peter 3:21).
+
+These images belong together.
+
+The baptized person confesses that salvation is God's work through Christ.
+
+The baptized person also confesses that the Christian life is now lived under Jesus' lordship.
+
+### What Baptism Is Not
+
+Baptism does not earn God's grace.
+
+It does not make a person worthy of salvation.
+
+Nor should it be reduced to a merely private symbol with no relation to the Gospel.
+
+Scripture treats baptism as:
+
+- A significant commanded response of faith
+- A public identification with Christ
+- An act through which the Church recognizes and welcomes a disciple
+
+Christians differ on precisely how baptism relates to the moment and means of God's saving work.
+
+The passages in the sections below deserve to be read together.
+
+* * *
+
+## Reflection Questions
+
+1.  Which biblical images of baptism are most meaningful to you: allegiance, cleansing, union with Christ in death and resurrection, public confession, or incorporation into the Church? Why?
+    
+2.  What does it mean to call baptism a "confession of allegiance"?
+    
+3.  Why should baptism not be reduced to a merely private symbol?
+    
+4.  Why is it important to say that baptism does not earn God's grace?
+    
+
+* * *
+
+# 3\. BAPTISM IN THE NEW TESTAMENT NARRATIVES
+
+## Scripture
+
+- Mark 1:4–8
+- Matthew 3:13–17
+- Acts 2:38–41
+- Acts 8:9–24
+- Acts 8:26–40
+- Acts 9:10–19
+- Acts 10:34–48
+- Acts 16:14–15, 30–34
+- Acts 19:1–7
+- Acts 22:12–16
+- 1 Corinthians 1:16
+
+(Read the passages.)
+
+The narratives show baptism closely associated with the announcement of Jesus and people responding to the Gospel.
+
+They are not identical in every detail.
+
+We should avoid making a rule from an incidental detail when the text does not do so.
+
+### Jesus and John's Baptism
+
+John baptized people in preparation for the coming Messiah.
+
+He called Israel to repentance (Mark 1:4–8).
+
+Jesus Himself was baptized by John (Matthew 3:13–17).
+
+He was not baptized as a confession of personal sin.
+
+He was baptized in fulfillment of righteousness and at the beginning of His public ministry.
+
+John's baptism and Christian baptism are related within the unfolding story of God's work.
+
+But Acts 19:1–7 shows they are not interchangeable.
+
+Disciples who knew only John's baptism received instruction about Jesus.
+
+They were then baptized in the name of the Lord Jesus.
+
+### The Day of Pentecost
+
+After Peter's proclamation of Jesus' death and resurrection, his hearers ask what they should do.
+
+Acts 2:38 records Peter's answer.
+
+It joins repentance, baptism in Jesus Christ's name, forgiveness, and the gift of the Holy Spirit.
+
+Acts 2:41 then says those who received the word were baptized.
+
+The narrative presents baptism as an immediate and public response among those who received the message.
+
+### Philip and the Ethiopian Official
+
+In Acts 8:26–40, Philip explains the good news about Jesus from Isaiah.
+
+The Ethiopian sees water and asks to be baptized.
+
+They go down into the water, and Philip baptizes him.
+
+The account emphasizes the official's response to the message and the promptness of baptism.
+
+It does not describe a prolonged class of candidates.
+
+It does not state a universal timetable.
+
+But it gives a vivid pattern of Gospel instruction followed by baptism.
+
+### Saul (Paul), Ananias, and Baptism
+
+In Acts 9:10–19, the Lord sends Ananias to Saul.
+
+Ananias lays hands on him.
+
+Saul regains his sight, is filled with the Holy Spirit, and is baptized.
+
+In Paul's later account in Acts 22:12–16, Ananias tells him to rise, be baptized, and call on the Lord's name.
+
+Ananias is the believer who personally comes to Saul, ministers to him, and participates in his baptism.
+
+This is a meaningful example of relational care.
+
+Yet Acts does not say that Ananias was the person who first evangelized Saul.
+
+Nor does it establish an exclusive rule about who may baptize.
+
+### Cornelius and His Household
+
+In Acts 10:34–48, the Holy Spirit falls on Cornelius and those hearing Peter's message before they are baptized in water.
+
+Peter then directs that they be baptized in the name of Jesus Christ.
+
+The passage does not identify who physically performed the baptisms.
+
+We should not fill in that silence.
+
+The sequence is significant.
+
+The Spirit's work among Gentiles is evident before water baptism.
+
+Baptism follows as the public act Peter commands.
+
+### Households in Acts
+
+The New Testament mentions the baptism of households, including:
+
+- Lydia's household (Acts 16:14–15)
+- The Philippian jailer's household (Acts 16:30–34)
+- The household of Stephanas (1 Corinthians 1:16)
+
+These accounts should be read honestly.
+
+They do say that households were baptized.
+
+They do not explicitly identify infants.
+
+They do not say that every member was baptized irrespective of personal response.
+
+The jailer's account says that Paul and Silas spoke the word of the Lord to all in his house.
+
+It describes the household rejoicing in God (Acts 16:32–34).
+
+This may suggest that those baptized were capable of hearing and responding.
+
+But the precise ages and composition of the household are not stated.
+
+In Lydia's account, the text does not tell us whether children were present.
+
+The household passages are relevant to paedobaptist arguments.
+
+But the presence of infants is an inference, not an explicit statement.
+
+Likewise, it would go beyond the text to claim that no household could have included a child.
+
+### Simon Magus: Baptism Is Not Infallible Proof of Regeneration
+
+Acts 8:9–24 says Simon believed and was baptized (verse 13).
+
+Yet Peter later rebuked him for a heart that was not right before God.
+
+Peter called him to repent (verses 20–23).
+
+The account warns us not to treat a recorded response or baptism as an infallible human diagnosis of regeneration.
+
+The Church should take a person's profession seriously and baptize responsibly.
+
+But it must remember that God alone knows the heart perfectly.
+
+* * *
+
+## Reflection Questions
+
+1.  What do the New Testament baptism narratives explicitly say about the candidates? What are you tempted to assume beyond the text?
+    
+2.  Why is it unwise to make a rule from an incidental detail?
+    
+3.  What does Ananias's role in Saul's baptism show about relational care? What does Acts not say about him?
+    
+4.  What does the story of Simon warn us about? How should a church baptize responsibly in light of it?
+    
+
+* * *
+
+# 4\. BELIEVER'S BAPTISM AND PAEDOBAPTISM
+
+## Scripture
+
+- Acts 2:41
+- Acts 8:12
+- Acts 8:36–38
+- Acts 10:44–48
+- Acts 16:30–34
+- Acts 18:8
+
+(Read the passages.)
+
+This section asks us to examine the evidence.
+
+Participants should weigh the passages and the larger biblical arguments carefully.
+
+### Believer's Baptism
+
+Believer's baptism is baptism following a person's own response to the Gospel.
+
+Its advocates point to the repeated narrative pattern in Acts.
+
+People hear the message, receive it or believe, and are baptized (Acts 2:41; 8:12; 8:36–38; 10:44–48; 16:30–34; 18:8).
+
+The texts explicitly describe responses of faith in several cases.
+
+No New Testament passage explicitly commands the baptism of infants.
+
+No New Testament passage explicitly narrates an infant being baptized.
+
+### Paedobaptism
+
+Paedobaptists commonly understand baptism in continuity with God's covenant sign given to Abraham and his descendants.
+
+They point to household baptisms as consistent with the inclusion of children in the covenant community.
+
+Those are theological arguments drawn from the whole biblical story.
+
+Household texts do not explicitly mention infants.
+
+And the New Testament's explicit descriptions of baptism following reception of the word must also be considered.
+
+### A Careful Conclusion
+
+A careful conclusion should say both what is present and what is absent.
+
+Household baptisms are in Scripture.
+
+Infant baptism is not explicitly described.
+
+Readers may infer that infants were included in some households, but the text does not state this.
+
+Readers may also infer that the household members were responsive hearers, but the accounts do not provide every person's age.
+
+Participants should not dismiss either side by assertion.
+
+* * *
+
+## Reflection Questions
+
+1.  Which passages most strongly shape your understanding of who should be baptized?
+    
+2.  What does each passage state directly? Which conclusions depend on inference or a broader theological framework?
+    
+3.  How should household baptism passages inform the debate about paedobaptism? Which claims are explicit, and which are inferences?
+    
+4.  Why is it important to weigh both views carefully rather than dismissing either by assertion?
+    
+
+* * *
+
+# 5\. CIRCUMCISION AND BAPTISM
+
+## Scripture
+
+- Genesis 17:9–14
+- Romans 4:9–12
+- Colossians 2:11–12
+
+(Read the passages.)
+
+Genesis 17:9–14 describes circumcision as the covenant sign given to Abraham and his male descendants.
+
+It was to be administered to male infants on the eighth day.
+
+The command is explicit.
+
+Romans 4:9–12 adds an important detail.
+
+Abraham received circumcision as a sign and seal of the righteousness he had by faith while uncircumcised.
+
+Abraham's faith preceded the sign in his own case.
+
+He became father of believing uncircumcised people as well as circumcised people who follow his faith.
+
+Colossians 2:11–12 connects believers' spiritual circumcision in Christ with being buried and raised with Him in baptism.
+
+Christians interpret this relationship differently.
+
+### Continuity
+
+Paedobaptists often see continuity between circumcision as the covenant sign and baptism as the new covenant sign.
+
+They believe this supports the inclusion of believers' children.
+
+### Caution
+
+Others emphasize that Paul describes a circumcision "not made with hands."
+
+They note that he joins it with union with Christ through faith.
+
+They note that he does not directly say that baptism should be administered to infants.
+
+The passage makes a meaningful theological connection.
+
+It does not expressly state that Christian baptism replaces the eighth-day command in Genesis 17.
+
+It does not give a direct instruction to baptize babies.
+
+### Two Rites, Not Identical
+
+The two rites should not be treated as identical without argument.
+
+Circumcision in Genesis 17 is explicitly commanded for male infants within Abraham's covenant household.
+
+In the New Testament, baptism is explicitly commanded for disciples.
+
+The narratives frequently connect it with hearing and receiving the Gospel.
+
+How continuity and change between the covenants should be understood is a genuine theological question.
+
+Participants should distinguish the biblical texts from the conclusions drawn from them.
+
+* * *
+
+## Reflection Questions
+
+1.  What does Genesis 17 say about circumcision?
+    
+2.  What does Romans 4:9–12 add about Abraham's faith and the sign?
+    
+3.  What does Colossians 2:11–12 connect with baptism?
+    
+4.  Where do you see continuity between circumcision and baptism? Where should we avoid claiming more than the passages say?
+    
+
+* * *
+
+# 6\. BAPTISM AND SALVATION, FORGIVENESS, AND THE HOLY SPIRIT
+
+## Scripture
+
+- Acts 2:38
+- Acts 10:44–48
+- Acts 22:16
+- Romans 6:3–4
+- 1 Peter 3:21
+
+(Read the passages.)
+
+Several passages speak of baptism in close association with salvation's blessings.
+
+They should not be avoided.
+
+They should not be flattened into a slogan.
+
+### Acts 2:38
+
+Peter joins repentance and baptism in Jesus Christ's name with forgiveness of sins and the gift of the Holy Spirit.
+
+Christians debate the precise force of the grammar.
+
+They also debate how baptism relates to receiving these gifts.
+
+The passage plainly gives baptism a serious place in the apostolic response to the Gospel.
+
+### Acts 10:44–48
+
+The Holy Spirit falls on Cornelius and the other hearers before water baptism.
+
+Peter then orders their baptism.
+
+This shows that God's gift of the Spirit is not mechanically controlled by the water rite.
+
+Baptism remains the commanded public response.
+
+### Acts 22:16
+
+Ananias tells Saul to be baptized and wash away his sins, calling on the Lord's name.
+
+The language strongly connects baptism with cleansing and invocation of Christ.
+
+Interpreters differ on how sacramental or symbolic the wording is.
+
+But it should not be reduced to an empty picture.
+
+### Romans 6:3–4
+
+Paul describes baptism into Christ as baptism into His death.
+
+He describes burial with Him, and a call to walk in newness of life.
+
+His emphasis is union with Christ and the transformed life that follows.
+
+### 1 Peter 3:21
+
+Peter says baptism now saves.
+
+He clarifies that he is not speaking of removal of dirt from the body.
+
+He speaks of an appeal or pledge of a good conscience toward God, through the resurrection of Jesus Christ.
+
+The verse locates the saving hope in Christ's resurrection, not in water as a magical substance.
+
+### Taken Together
+
+Across these texts, baptism is neither a human achievement that purchases salvation nor an insignificant optional illustration.
+
+The New Testament places it within the response of faith, the Church's confession, and the Gospel's promise.
+
+Different Christian traditions explain the relationship between baptism and regeneration, forgiveness, and the moment of salvation in different ways.
+
+A faithful discussion should state those differences carefully.
+
+It should also affirm that salvation rests on God's grace through Jesus Christ.
+
+* * *
+
+## Reflection Questions
+
+1.  How do Acts 2:38, Acts 10:44–48, Acts 22:16, Romans 6:3–4, and 1 Peter 3:21 shape your understanding of baptism and salvation?
+    
+2.  What does it teach us that the Spirit fell on Cornelius's household before water baptism?
+    
+3.  Why is it important not to reduce these passages to a slogan?
+    
+4.  How can we discuss different views on baptism and salvation with humility while affirming that salvation rests on God's grace?
+    
+
+* * *
+
+# 7\. THE BAPTISMAL NAME AND FORMULA
+
+## Scripture
+
+- Matthew 28:19
+- Acts 2:38
+- Acts 8:16
+- Acts 10:48
+- Acts 19:5
+
+(Read the passages.)
+
+Jesus commands baptism "in the name of the Father and of the Son and of the Holy Spirit" (Matthew 28:19, ESV).
+
+Acts frequently describes baptism "in the name of Jesus Christ" or "in the name of the Lord Jesus" (Acts 2:38; 8:16; 10:48; 19:5).
+
+Christians have understood these expressions in different ways.
+
+Matthew gives Jesus' explicit baptismal command.
+
+Acts emphasizes that Christian baptism is under the authority and allegiance of Jesus, in contrast to other baptisms or religious identities.
+
+The phrases need not be treated as a contradiction.
+
+Acts may be identifying the baptism as Christian baptism centered on Jesus.
+
+It may do so without recording a verbatim liturgical formula used at the water.
+
+Churches should follow Jesus' command.
+
+They should baptize as an act of allegiance to the triune God, confessing Jesus as Lord.
+
+* * *
+
+## Reflection Questions
+
+1.  What formula does Jesus command in Matthew 28:19?
+    
+2.  Why does Acts often describe baptism "in the name of Jesus"?
+    
+3.  Why need these two expressions not be treated as a contradiction?
+    
+4.  What does it mean to baptize as an act of allegiance to the triune God?
+    
+
+* * *
+
+# 8\. THE MODE: WHY IMMERSION MOST FULLY ILLUSTRATES THE GOSPEL
+
+## Scripture
+
+- Romans 6:3–4
+- Colossians 2:12
+- Matthew 3:16
+- Acts 8:38–39
+
+(Read the passages.)
+
+The New Testament uses the imagery of burial and resurrection with Christ (Romans 6:3–4; Colossians 2:12).
+
+Immersion most fully displays this picture.
+
+The candidate is lowered beneath the water, symbolizing burial with Christ.
+
+The candidate is raised from the water, picturing resurrection to new life.
+
+The accounts of Jesus' baptism and Philip's baptism of the Ethiopian describe going into or coming up from water (Matthew 3:16; Acts 8:38–39).
+
+Those details alone do not settle every historical question about the quantity of water used.
+
+For these reasons, immersion is the mode that most clearly and completely portrays the New Testament's burial-and-resurrection imagery.
+
+This is a strong biblical and theological case for immersion.
+
+At the same time, Scripture does not explicitly state that baptism by pouring or sprinkling is automatically invalid.
+
+It does not give a direct command using the words "baptize only by full immersion."
+
+Christians who practice other modes point to the absence of a specific universal instruction about the quantity of water.
+
+They also point to baptism's cleansing imagery.
+
+Participants should understand the distinction.
+
+Immersion has the fullest illustrative correspondence to Romans 6 and Colossians 2.
+
+Declaring every other mode invalid goes beyond an explicit statement in those passages.
+
+Churches should teach their convictions honestly.
+
+They should practice baptism in a way that takes the biblical imagery seriously.
+
+* * *
+
+## Reflection Questions
+
+1.  Why does immersion most fully illustrate burial and resurrection with Christ?
+    
+2.  What can we conclude confidently about the mode of baptism?
+    
+3.  What conclusions would go beyond an explicit command of Scripture?
+    
+4.  Why do some Christians practice other modes? How should we speak about those convictions?
+    
+
+* * *
+
+# 9\. WHO SHOULD BAPTIZE?
+
+## Scripture
+
+- Acts 8:26–40
+- Acts 9:10–19
+- Acts 10:44–48
+- Acts 22:12–16
+- John 4:1–2
+- 1 Corinthians 1:14–17
+
+(Read the passages.)
+
+The New Testament does not reserve baptism exclusively for senior pastors or ordained clergy.
+
+It also does not contain a direct command saying that every individual believer must personally baptize someone.
+
+The narratives show different servants of the Gospel involved:
+
+- Ananias with Saul (Acts 9; 22)
+- Philip with the Ethiopian (Acts 8)
+- Paul's companions and coworkers in the ministry around Corinth (1 Corinthians 1:14–17)
+
+In the case of Cornelius, Acts does not say who physically baptized the household (Acts 10:44–48).
+
+John 4:1–2 clarifies that Jesus' disciples were baptizing, though Jesus Himself was not doing so.
+
+### The Whole Church Shares the Responsibility
+
+The whole Church shares responsibility for making disciples.
+
+The priesthood of believers and the Commission's transmission through teaching obedience support the participation of mature believers in evangelism, baptism, and continuing care.
+
+This does not erase the value of pastoral oversight, preparation, order, or the gathered Church's witness.
+
+It does challenge the assumption that only a senior leader is spiritually qualified to baptize.
+
+### A Pastoral Principle
+
+A wise pastoral principle is that the person who helped someone come to faith should ordinarily be involved in baptizing that new believer and continuing to disciple them.
+
+That person often knows the journey.
+
+That person can help the believer articulate their faith and reasons for baptism.
+
+That person has already demonstrated obedience by sharing the Gospel.
+
+This practice joins evangelism, baptism, and teaching in the relational pattern of the Great Commission.
+
+This is a principle of pastoral wisdom, not an explicit universal command.
+
+Circumstances may make another arrangement appropriate:
+
+- The discipler may be unable to attend
+- The new believer may request another person
+- Church oversight may call for shared participation
+
+The aim is not to claim ownership over the believer.
+
+The aim is to ensure that baptism grows naturally out of a church's continuing care.
+
+Senior pastors should equip and affirm disciple-makers.
+
+They should not make baptism a status symbol or a performance reserved to them.
+
+### A Needed Warning
+
+Paul's words in 1 Corinthians 1:14–17 provide a needed warning.
+
+Paul is thankful that he baptized only a few in Corinth, so that no one could claim baptism in his name.
+
+He says Christ sent him to preach the Gospel.
+
+This does not make baptism unimportant.
+
+It warns against personality-centered loyalty, as if a believer belonged to the person who baptized them.
+
+Baptism points to Christ.
+
+It incorporates the believer into Christ's people, not into a celebrity leader's following.
+
+* * *
+
+## Reflection Questions
+
+1.  What does the New Testament say, and not say, about who may baptize?
+    
+2.  What would it look like for the person who discipled a new believer to participate in baptism and continue accompanying them afterward?
+    
+3.  Why is this a principle of pastoral wisdom rather than an explicit universal command?
+    
+4.  What warning does 1 Corinthians 1:14–17 give to churches that elevate a prominent baptizer?
+    
+
+* * *
+
+# 10\. TIMING, PROMPTNESS, AND PREPARATION
+
+## Scripture
+
+- Acts 2:41
+- Acts 8:36–38
+- Acts 10:47–48
+- Acts 16:33
+- Acts 18:8
+
+(Read the passages.)
+
+In Acts, baptism commonly follows soon after a person receives the Gospel (Acts 2:41; 8:36–38; 10:47–48; 16:33; 18:8).
+
+Promptness shows that baptism is an ordinary and expected response to the Gospel.
+
+It is not an advanced privilege to be postponed indefinitely.
+
+The narratives do not establish one required waiting period for every church or situation.
+
+### Responsible Preparation
+
+Responsible preparation matters.
+
+A church should:
+
+- Listen to the candidate's profession
+- Make sure they understand the Gospel and the meaning of baptism
+- Answer their questions
+- Help them understand the life of discipleship they are entering
+
+Preparation should serve clarity and care.
+
+It should not become an unnecessary barrier to obedience.
+
+Where a person is ready and the church can baptize them responsibly, the New Testament pattern encourages prompt action.
+
+* * *
+
+## Reflection Questions
+
+1.  What does the promptness of baptism in Acts show about its place in the Christian life?
+    
+2.  Why do the narratives not establish one required waiting period for every situation?
+    
+3.  What does responsible preparation for baptism include?
+    
+4.  How can a church avoid both careless haste and unnecessary delay?
+    
+
+* * *
+
+# 11\. REBAPTISM AND ACTS 19:1–7
+
+## Scripture
+
+Acts 19:1–7
 
 (Read the passage.)
 
-One of the most powerful images of the Church is the Body of Christ.
+Acts 19:1–7 describes disciples in Ephesus who had received John's baptism.
 
-Paul teaches that believers are like parts of a human body.
+They had not understood the full message about Jesus and the Holy Spirit.
 
-Each part has a different function.
+After Paul instructs them, they are baptized in the name of the Lord Jesus.
 
-Each part is important.
+Paul lays hands on them.
 
-Each part contributes to the health of the whole.
+This is not a simple case of mature Christians repeating Christian baptism because they later feel uncertain.
 
-A hand is not a foot.
+They had received a different baptism, associated with John's preparatory ministry.
 
-An eye is not an ear.
+They needed to respond to the completed Gospel concerning Jesus.
 
-Yet all belong to the same body.
+### Careful Distinctions
 
-Likewise, Christians have different gifts, personalities, experiences, and responsibilities.
+Churches should distinguish such a case from a believer who was baptized as a Christian but later:
 
-Some teach.
+- Regrets their earlier doubts
+- Discovers greater spiritual maturity
+- Changes churches
 
-Some serve.
+The New Testament does not give a detailed policy for every modern rebaptism question.
 
-Some lead.
+A church should hear the person's story.
 
-Some encourage.
+It should clarify what their earlier baptism meant and what they understood.
 
-Some show mercy.
+It should respond pastorally.
 
-Some give generously.
+Where the earlier act was not Christian baptism, Acts 19 offers a clear reason for baptism in the name of Jesus.
 
-Some work behind the scenes.
-
-Others serve publicly.
-
-The diversity of gifts is not a problem.
-
-It is God's design.
-
-No believer possesses every gift.
-
-No believer is unnecessary.
-
-Every member contributes something valuable.
-
-When believers work together, the Church becomes healthy and effective.
-
-When believers compare themselves with others or compete with one another, the body suffers.
-
-The Church thrives when every member faithfully fulfills his or her role.
+Where it was Christian baptism, the church should take care not to turn baptism into repeated reassurance rituals or a mark of denominational transfer.
 
 * * *
 
 ## Reflection Questions
 
-1.  Why did Paul compare the Church to a body?
+1.  Who were the disciples in Acts 19:1–7, and what had they received?
     
-2.  What strengths does diversity bring to the Church?
+2.  Why is this not simply a case of Christians repeating Christian baptism?
     
-3.  Why is every member important?
+3.  How should a church respond to someone asking about rebaptism?
     
-4.  How has God uniquely gifted you?
+4.  Why should baptism not become a repeated reassurance ritual or a mark of denominational transfer?
     
 
 * * *
 
-# 4\. THE FAMILY OF GOD
+# 12\. BAPTISM BEGINS A CONTINUING LIFE OF DISCIPLESHIP
 
 ## Scripture
 
-Ephesians 2:19
+- Matthew 28:19–20
+- Acts 2:41–47
 
-> "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God."
+(Read the passages.)
 
-Another beautiful image of the Church is family.
+Matthew 28 does not end with baptism.
 
-When people trust Christ, they become children of God.
+Jesus joins baptizing disciples with teaching them to observe all He commanded.
 
-As a result, believers become brothers and sisters in Christ.
+The apostolic pattern likewise places the baptized within a community of worship, teaching, fellowship, and service (Acts 2:41–47).
 
-This relationship transcends:
+Baptism is not the finish line of evangelism or discipleship.
 
-- Nationality
-- Ethnicity
-- Language
-- Social status
-- Economic background
+The person who helped a new believer come to faith should ordinarily continue walking with them.
 
-The Church is united not by common interests but by a common Savior.
+That means helping them:
 
-Families are not perfect.
+- Understand Scripture
+- Practice obedience
+- Become part of the local church
+- Endure hardship
+- Learn to make disciples themselves
 
-Neither are churches.
+The Church should not celebrate baptisms and then leave new believers isolated.
 
-Because believers are still growing, misunderstandings, disagreements, and conflicts occasionally occur.
-
-Yet despite imperfections, God intends the Church to be a place where believers experience:
-
-- Love
-- Acceptance
-- Encouragement
-- Accountability
-- Care
-- Support
-
-The Church should reflect the heart of a loving family.
-
-People should be able to say:
-
-"I belong here."
-
-One of the greatest testimonies to the world is a church family that genuinely loves one another.
+The Commission calls us to make disciples who obey Jesus and pass on His teaching to others.
 
 * * *
 
 ## Reflection Questions
 
-1.  What does it mean to be part of God's family?
+1.  Why does Matthew 28 not end with baptism?
     
-2.  How does the Church differ from other organizations?
+2.  What does the apostolic pattern in Acts 2:41–47 show about where the baptized belong?
     
-3.  Why are relationships important for spiritual growth?
+3.  What support should a local church provide so that baptism leads into a lasting life of discipleship?
     
-4.  How can you strengthen the sense of family within your church?
-    
-
-* * *
-
-# 5\. WORSHIP AND FELLOWSHIP
-
-## Scripture
-
-Acts 2:42–47
-
-(Read the passage.)
-
-The early believers devoted themselves to several important practices:
-
-### Apostles' Teaching
-
-They learned God's Word.
-
-### Fellowship
-
-They shared life together.
-
-### Breaking of Bread
-
-They remembered Christ and shared meals.
-
-### Prayer
-
-They sought God together.
-
-These activities formed the foundation of church life.
-
-Worship is more than singing.
-
-Worship is responding to God with:
-
-- Praise
-- Gratitude
-- Obedience
-- Reverence
-- Love
-
-Likewise, fellowship is more than casual social interaction.
-
-Biblical fellowship involves sharing life together in Christ.
-
-It includes:
-
-- Encouraging one another
-- Bearing one another's burdens
-- Praying for one another
-- Serving one another
-- Growing together
-
-Many believers underestimate the importance of fellowship.
-
-Yet God often uses relationships as one of His primary tools for spiritual growth.
-
-We grow best in community.
-
-* * *
-
-## Reflection Questions
-
-1.  What activities characterized the early church?
-    
-2.  How is worship more than music?
-    
-3.  What makes biblical fellowship unique?
-    
-4.  How has fellowship strengthened your faith?
-    
-
-# 6\. SPIRITUAL GIFTS AND SERVICE
-
-## Scripture
-
-Romans 12:3–8
-
-(Read the passage.)
-
-God has given every believer spiritual gifts for the benefit of the Church.
-
-A spiritual gift is a God-given ability empowered by the Holy Spirit for serving others and building up the body of Christ.
-
-These gifts vary widely.
-
-Some believers teach.
-
-Some encourage.
-
-Some lead.
-
-Some serve quietly behind the scenes.
-
-Some show mercy.
-
-Some give generously.
-
-Some help organize ministries.
-
-Others excel in hospitality.
-
-The diversity of gifts reflects the wisdom of God.
-
-No one possesses every gift.
-
-No one is called to perform every ministry.
-
-The purpose of spiritual gifts is not personal recognition.
-
-The purpose is service.
-
-A healthy church is not built around a few people doing everything.
-
-It is built when every believer contributes according to the gifts God has provided.
-
-One of the joys of discipleship is discovering how God has equipped you and using those gifts to bless others.
-
-* * *
-
-## Reflection Questions
-
-1.  What are spiritual gifts?
-    
-2.  Why does God distribute different gifts among believers?
-    
-3.  How can spiritual gifts be misused?
-    
-4.  How might God be calling you to serve others?
-    
-
-* * *
-
-# 7\. UNITY AND DIVERSITY
-
-## Scripture
-
-Ephesians 4:1–6
-
-(Read the passage.)
-
-One of the greatest miracles of the Gospel is the unity it creates among diverse people.
-
-The Church includes people from different:
-
-- Nations
-- Languages
-- Cultures
-- Personalities
-- Educational backgrounds
-- Economic circumstances
-
-Humanly speaking, many of these people might never have become friends.
-
-Yet Christ brings them together.
-
-Biblical unity does not mean uniformity.
-
-The Church does not require everyone to think alike on every secondary issue.
-
-Nor does it erase individual differences.
-
-Rather, unity means that believers share a common faith, a common Savior, and a common mission.
-
-Paul urges believers to maintain unity through:
-
-- Humility
-- Gentleness
-- Patience
-- Love
-
-Church conflict often occurs when people insist on their preferences rather than pursuing Christ's priorities.
-
-The mature disciple values unity without compromising truth.
-
-The goal is not agreement on everything.
-
-The goal is faithful love for one another under the lordship of Christ.
-
-* * *
-
-## Reflection Questions
-
-1.  Why is unity important in the Church?
-    
-2.  How does the Gospel unite diverse people?
-    
-3.  What threatens unity within churches?
-    
-4.  How can you contribute to unity in your church?
-    
-
-* * *
-
-# 8\. ACCOUNTABILITY AND MUTUAL CARE
-
-## Scripture
-
-Hebrews 10:24–25
-
-(Read the passage.)
-
-The Christian life was never intended to be lived alone.
-
-God designed believers to encourage, strengthen, and support one another.
-
-The New Testament contains numerous "one another" commands.
-
-Believers are instructed to:
-
-- Love one another
-- Encourage one another
-- Pray for one another
-- Serve one another
-- Bear one another's burdens
-- Forgive one another
-- Admonish one another
-
-These commands require relationships.
-
-Accountability is not about control.
-
-It is about care.
-
-A loving church helps believers remain faithful to Christ.
-
-When someone begins drifting spiritually, mature believers gently help restore them.
-
-When someone struggles, others provide encouragement and support.
-
-When someone succeeds, others rejoice.
-
-Christian accountability is rooted in love.
-
-It exists because we care about one another's spiritual well-being.
-
-Isolation often magnifies temptation and discouragement.
-
-Community provides strength.
-
-God frequently uses other believers as instruments of His grace.
-
-* * *
-
-## Reflection Questions
-
-1.  Why is accountability important?
-    
-2.  How does accountability differ from judgmentalism?
-    
-3.  Why can isolation be dangerous for spiritual growth?
-    
-4.  Who encourages and supports you spiritually?
-    
-
-* * *
-
-# 9\. WHY EVERY DISCIPLE NEEDS THE CHURCH
-
-## Scripture
-
-Hebrews 10:24–25
-
-(Read the passage.)
-
-Many people today claim:
-
-"I love Jesus, but I don't need the Church."
-
-The New Testament presents a different perspective.
-
-Jesus loves the Church.
-
-He died for the Church.
-
-He is building the Church.
-
-A disciple cannot fully follow Christ while remaining disconnected from His people.
-
-The Church provides:
-
-### Teaching
-
-Believers grow through sound biblical instruction.
-
-### Fellowship
-
-Relationships encourage spiritual maturity.
-
-### Worship
-
-Corporate worship directs hearts toward God.
-
-### Accountability
-
-Believers help one another remain faithful.
-
-### Service Opportunities
-
-The Church provides avenues to use spiritual gifts.
-
-### Mission
-
-Together believers accomplish far more than they could alone.
-
-No church is perfect.
-
-Every church contains imperfect people.
-
-Yet God has chosen to use imperfect people to accomplish His perfect purposes.
-
-The solution to church imperfections is not abandonment.
-
-The solution is faithful participation.
-
-Disciples grow best when they are actively engaged in the life of a healthy local church.
-
-* * *
-
-## Reflection Questions
-
-1.  Why do some people resist involvement in church?
-    
-2.  What blessings does the Church provide?
-    
-3.  How has the Church helped you grow spiritually?
-    
-4.  What role can you play in strengthening your church community?
+4.  Who helped you grow in faith, and whom might you now accompany?
     
 
 * * *
 
 # CHAPTER SUMMARY
 
-The Church is not merely a building or organization.
+Jesus commanded His apostles to make disciples by baptizing them and teaching them to obey everything He commanded.
 
-It is the people of God redeemed through Jesus Christ.
+That teaching carries the Commission forward through every generation of disciples.
 
-The New Testament describes the Church as:
+The New Testament presents baptism as a commanded, public act of allegiance to Jesus and identification with His death and resurrection.
 
-- The Body of Christ
-- The Family of God
-- A Worshiping Community
-- A Fellowship of Believers
+In this chapter we have seen that:
 
-God has given spiritual gifts to every believer for the purpose of serving others and building up the Church.
+- The narratives commonly show people receiving the Gospel and being baptized
+- Household accounts do not explicitly identify infants
+- Circumcision and baptism are theologically connected in Colossians 2, but Scripture does not directly say that baptism simply replaces the eighth-day command of Genesis 17
+- The Bible joins baptism with forgiveness, cleansing, the Holy Spirit, and salvation in ways that require careful theological reading
+- Immersion most fully portrays burial and resurrection with Christ, though the text does not expressly declare all other modes automatically invalid
+- The whole Church has a role in disciple-making
+- The New Testament neither limits baptism to senior clergy nor commands every believer to baptize personally
+- As a pastoral norm, the person who helped someone come to faith should ordinarily be involved in baptism and continue discipling them
 
-Although believers differ in many ways, they are united through faith in Christ.
+Baptism marks a beginning in the visible life of following Jesus.
 
-The Church is also a place of mutual care, encouragement, accountability, and growth.
-
-Disciples are not called to follow Christ alone.
-
-They are called to participate in the life of God's people.
-
-A healthy disciple becomes an active, contributing member of a healthy church community.
+It is not the end of the Church's care.
 
 * * *
 
 # MEMORY VERSE
 
-> "I will build my church, and the gates of hell shall not prevail against it."
+> "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you."
 > 
-> — Matthew 16:18
+> — Matthew 28:19–20a (ESV)
 
 * * *
 
@@ -680,90 +990,58 @@ A healthy disciple becomes an active, contributing member of a healthy church co
 
 During the coming week:
 
-□ Read Ephesians chapters 4–6.
+□ Read Matthew 28:16–20, Acts 8:26–40, Acts 10:34–48, Romans 6:1–11, Colossians 2:11–15, and 1 Peter 3:18–22 in full.
 
-□ Memorize Matthew 16:18.
+□ Write down what each passage says baptism means and what questions remain for you.
 
-□ Identify one way you can serve your church.
+□ Memorize Matthew 28:19–20a.
 
-□ Pray for your church leaders.
+□ If you have not been baptized as a disciple of Jesus, speak with a mature believer or church leader about your faith, your understanding of baptism, and a practical next step.
 
-□ Encourage another believer this week.
+□ If you have been baptized, consider who helped you grow in faith and whom you might now accompany.
 
-□ Evaluate whether you are actively participating in church life.
+□ Identify one person with whom you can share the Gospel, walk through Scripture, or help take a next step toward Jesus.
 
-□ Thank God for the believers He has placed in your life.
+□ Ask your church how it can support ongoing discipleship after baptism.
 
 * * *
 
 # PERSONAL COMMITMENT
 
-I commit myself to participating faithfully in the life of Christ's Church.
+With God's help, I will take baptism seriously as Jesus' command and as a public witness to His saving work.
 
-I desire to worship, serve, encourage others, and grow together with God's people.
+I will examine Scripture carefully and speak about other Christian convictions with humility.
 
-Signature: _**_**_**_**_**_**_**_**\___
+I will take part in the Church's mission to make disciples.
 
-Date: _**_**_**_**_**_**_**_**_**_**_
+I will seek to help new believers move from hearing the Gospel to baptism and into a continuing life of obedience, community, and disciple-making.
+
+My next step: ________________________________________________
+
+The person I will walk alongside or speak with: _____________________
+
+Signature: ________________________________
+
+Date: _____________________
 
 * * *
 
 # PRAYER
 
-Heavenly Father,
+Father,
 
-Thank You for making me part of Your family through Jesus Christ.
+Thank You for sending Your Son, Jesus Christ, who died and rose again to save us.
 
-Thank You for the Church and for the believers You have placed in my life.
+Thank You for the gift of baptism and for the Church through which the good news has been passed from one generation to another.
 
-Help me to love Your Church as Christ loves His Church.
+Give us understanding as we read Your Word.
 
-Teach me to serve faithfully, encourage others, pursue unity, and use my gifts for Your glory.
+Help us obey Jesus with humility, baptize new disciples faithfully, and welcome them into the life of Your people.
 
-Protect me from isolation, pride, and self-centeredness.
+Keep us from pride, careless assumptions, and loyalty to human personalities.
 
-Help me become a blessing to my church family and a faithful participant in Your mission.
+Teach us to walk patiently with new believers, to teach them all that Jesus commanded, and to help them make disciples in turn.
 
-May Your Church grow in love, truth, holiness, and effectiveness until Christ returns.
-
-In Jesus' name,
+May our lives point to Christ, in whose name we pray.
 
 Amen.
-
-* * *
-
-# PART III — LIVING IN THE SPIRIT AND HOPE
-
-# CHAPTER 10
-
-# THE HOLY SPIRIT
-
-## Key Verse
-
-John 14:16–17
-
-> "And I will ask the Father, and he will give you another Helper..."
-
-* * *
-
-# Introduction
-
-Many Christians understand God the Father.
-
-Many understand Jesus Christ the Son.
-
-Yet the Holy Spirit is often the least understood person of the Trinity.
-
-Who is the Holy Spirit?
-
-What does He do?
-
-How does He work in the life of believers?
-
-These questions are essential because the Christian life cannot be lived in human strength alone.
-
-God has given His Spirit to every believer.
-
-The Holy Spirit comforts, teaches, convicts, guides, empowers, and transforms God's people.
-
-To understand the Christian life, we must understand the Holy Spirit.

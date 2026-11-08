@@ -723,7 +723,7 @@ The narratives show different servants of the Gospel involved:
 
 - Ananias with Saul (Acts 9; 22)
 - Philip with the Ethiopian (Acts 8)
-- Paul's companions and coworkers in the ministry around Corinth (1 Corinthians 1:14–17)
+- Paul, who baptized only a few in Corinth (1 Corinthians 1:14–16)
 
 In the case of Cornelius, Acts does not say who physically baptized the household (Acts 10:44–48).
 
